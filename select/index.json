@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "アフターダーク",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2025-12-07T13:57:45.023458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Dark [アフターダーク]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_After_Dark_[アフターダーク]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_アフターダーク_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_アフターダーク_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_アフターダーク_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG‐FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_アフターダーク_ASIAN_KUNG‐FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "For Tracy Hyde",
+      "has_synced": true,
+      "path": "select/06_アフターダーク_For_Tracy_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After Dark (アフターダーク \"Afutā Dāku\")",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_After_Dark_(アフターダーク__Afutā_Dāku_)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アフターダーク - After Dark",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_アフターダーク_-_After_Dark_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ASIAN KUNG-FU GENERATION　『アフターダーク』",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_ASIAN_KUNG-FU_GENERATION_『アフターダーク』_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "For Tracy Hyde",
+      "has_synced": true,
+      "path": "select/10_アフターダーク_For_Tracy_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/11_アフターダーク_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アフターダーク (Live @ Jisan Valley Rock Festival 2009, Korea)",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/12_アフターダーク_(Live_@_Jisan_Valley_Rock_Festival_2009,_Korea)_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_アフターダーク_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
